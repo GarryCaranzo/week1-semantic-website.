@@ -9,7 +9,7 @@ Name: Garry Magsuling
 RESTOGAR is a simple semantic HTML restaurant website. It contains multiple pages such as Home, About, Menu, and Meet the Chef. The website uses semantic HTML5 elements to improve accessibility and structure.
 
 ## Live Website
-https://garrymagsuling.github.io/week1-semantic-website/
+ https://garrymagsuling.github.io/week1-semantic-website./
 
 # Screenshots
 
